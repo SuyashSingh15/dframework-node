@@ -8,7 +8,7 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "peerDependencies": {
-    "@azure/identity": "^3.2.3",
+    "@azure/identity": "^4.3.0",
     "@azure/storage-blob": "^12.23.0",
     "dayjs": "^1.11.11",
     "dotenv": "^16.3.1",
@@ -30,7 +30,7 @@
     "tough-cookie": "^4.0.0"
   },
   "devDependencies": {
-    "@azure/identity": "^3.2.3",
+    "@azure/identity": "^4.3.0",
     "@azure/storage-blob": "^12.23.0",
     "dayjs": "^1.11.11",
     "dotenv": "^16.3.1",
